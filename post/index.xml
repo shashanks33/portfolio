@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Shashank S</title>
+    <link>https://shashanks33.github.io/portfolio/post/</link>
+    <description>Recent content in Projects on Shashank S</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Jun 2020 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://shashanks33.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project I: Data Science Salary Estimator</title>
+      <link>https://shashanks33.github.io/portfolio/post/project_1/</link>
+      <pubDate>Thu, 04 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://shashanks33.github.io/portfolio/post/project_1/</guid>
+      <description>Created a tool that can estimate data science salaries with a mean absolute error of $11k. Scraped data of 1000 companies from Glassdoor using selenium and python. Performed data cleaning on the data by extracting specific features from existing features. Performed explanatory data analysis to provide an insight on why a particular company in a state pays less/more and why. Used and optimized Linear, Lasso, Random Forest Regressor, GridSearchCV to obtain the best model.</description>
+    </item>
+    
+  </channel>
+</rss>
